@@ -10,8 +10,8 @@ This project predicts the "net load" (total electricity demand minus wind and so
 
 ## Results
 The model successfully identifies the daily peaks and valleys of Texas energy consumption. 
-* **RMSE:** [Insert the RMSE your script printed out] MW
-* **R2 Score:** [Insert the R2 score]
+* **RMSE:** 181.85 MW
+* **R2 Score:** 0.8774
 
 ![Forecast Results](forecast_results.png)
 

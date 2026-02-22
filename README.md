@@ -24,4 +24,4 @@ The model successfully identifies the daily peaks and valleys of Texas energy co
 ## How to Run
 1. Clone this repository.
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the script: `python main.py`
+3. Run the script: `python forecast.py`
